@@ -29,6 +29,8 @@ This is a telegram bot writen with pyrogram for leeching files on the internet t
 - Advanced ytdl
 - Docker support.
 
+ Deploy link: https://heroku.com/deploy?template=https://github.com/rsktg/LazyLeech.git
+
 ## Bot Commands
 
 **Leech Module**
